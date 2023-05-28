@@ -4,14 +4,15 @@
 
 .item {
   display: flex;
-  gap: 20px;
-  width: 300px;
+  gap: 30px;
+  width: 380px;
   justify-content: space-between;
-  margin-bottom: 8px;
+  margin-bottom: 18px;
 }
 
 .number {
-  font-weight: 600;
+  font-weight: bold;
+  
 }
 
 .button {
