@@ -12,6 +12,9 @@ export class App extends Component {
       { id: nanoid(), name: 'Hermione Kline', number: '443-89-12' },
       { id: nanoid(), name: 'Eden Clements', number: '645-17-79' },
       { id: nanoid(), name: 'Annie Copeland', number: '227-91-26' },
+      { id: nanoid(), name: 'Trevor Bangladesh', number: '956-28-76' },
+      { id: nanoid(), name: 'Abdul Makharadgul', number: '127-13-34' },
+      { id: nanoid(), name: 'Gabriel Gmurek', number: '000-14-88' },
     ],
     filter: '',
   };
